@@ -1,0 +1,33 @@
+# Android / Gradle
+*.iml
+.gradle
+/local.properties
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# IDE - IntelliJ / Android Studio
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/shelf/
+/.idea/deploymentTargetDropDown.xml
+
+# Firebase / Sensitive Configs
+app/google-services.json
+google-services.json
+
+# Signing files
+*.jks
+*.keystore
+/release/
+
+# OS
+.DS_Store
+
+# Local properties
+local.properties
